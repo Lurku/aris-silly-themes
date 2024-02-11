@@ -1,6 +1,6 @@
 {
     "name": "Wavy",
-    "description": "Pefect for AMOLED screens.",
+    "description": "Yandere Waifus are supreme.",
     "authors": [
         {
             "name": "Lurku",
@@ -22,9 +22,6 @@
         ],
         "TEXT_DANGER": [
             "#747474"
-        ],
-        "TEXT_LINK": [
-            "#a6a6a6"
         ],
         "INTERACTIVE_NORMAL": [
             "#a1a1a1"
